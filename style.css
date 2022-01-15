@@ -312,6 +312,9 @@ footer{
     .influence-title h1{
         font-size: 40px;
     }
+    .logo-area a{
+        font-size: 20px;
+    }
     .background-img{
         left: 10%;
        } 
